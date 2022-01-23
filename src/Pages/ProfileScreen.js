@@ -15,7 +15,6 @@ import {
 import { useLocation } from "react-router-dom"
 import { useState } from "react/cjs/react.development"
 import Navbar from "../Components/Navbar"
-import PaymentComponent from "../Components/PaymentCompnent"
 import { Container } from "../Components/Container/Container"
 import React, { useEffect } from "react"
 
